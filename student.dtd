@@ -1,0 +1,6 @@
+<!ELEMENT sudents (student*)>
+<!ELEMENT student (nom,S1,S2,credit,resultat)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT S1 (#PCDATA)>
+<!ELEMENT S2 (#PCDATA)>
+<!ELEMENT credit (#PCDATA)>
